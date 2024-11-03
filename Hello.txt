@@ -1,1 +1,2 @@
 This is hello message from me.
+This is altered for second release.
